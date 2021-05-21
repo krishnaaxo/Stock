@@ -2,5 +2,5 @@ streamlit
 yfinance
 matplotlib
 numpy
-nltk
+nltk==3.5
 bs4
